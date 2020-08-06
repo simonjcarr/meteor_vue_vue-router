@@ -4,7 +4,7 @@
 meteor npm install
 ```
 
-#Run the app
+# Run the app
 
 ```
 meteor
